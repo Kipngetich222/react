@@ -1,0 +1,7 @@
+.home{
+    min-height: 100vh;
+    background-color: burlywood;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
